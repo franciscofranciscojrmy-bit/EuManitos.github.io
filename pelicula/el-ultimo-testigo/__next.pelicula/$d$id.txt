@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[63096,["/EuManitos.github.io/_next/static/chunks/0~h66igg-ha3g.js","/EuManitos.github.io/_next/static/chunks/13-dorrhlr4-r.js"],"default"]
+3:I[55561,["/EuManitos.github.io/_next/static/chunks/0~h66igg-ha3g.js","/EuManitos.github.io/_next/static/chunks/13-dorrhlr4-r.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Blm9In8IqAlPiec6L4NJR"}

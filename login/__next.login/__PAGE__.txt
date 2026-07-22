@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[61986,["/EuManitos.github.io/_next/static/chunks/0~h66igg-ha3g.js","/EuManitos.github.io/_next/static/chunks/13-dorrhlr4-r.js","/EuManitos.github.io/_next/static/chunks/0h~y393b28vui.js","/EuManitos.github.io/_next/static/chunks/0x0pk~-ryi-h_.js"],"LoginForm"]
+3:I[22432,["/EuManitos.github.io/_next/static/chunks/0~h66igg-ha3g.js","/EuManitos.github.io/_next/static/chunks/13-dorrhlr4-r.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/EuManitos.github.io/_next/static/chunks/0h~y393b28vui.js","async":true}],["$","script","script-1",{"src":"/EuManitos.github.io/_next/static/chunks/0x0pk~-ryi-h_.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Blm9In8IqAlPiec6L4NJR"}
+5:null
